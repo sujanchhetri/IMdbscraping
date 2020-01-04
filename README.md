@@ -1,5 +1,6 @@
-# IMdbscracping
-A scraper to scrape movies data as per rank or rating
+# IMdbscraping
+A scraper to scrape movies data as per rank or rating and generate a text file with scrapped data
+
 
 >Dependencies and Node_Modules  to be installed
 * nodemon  `npm install nodemon`
