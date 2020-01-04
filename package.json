@@ -1,0 +1,16 @@
+{
+  "name": "imdb-scraper",
+  "version": "1.0.0",
+  "description": "A webapp to scrape imdb",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Sujan Chhetri",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "nodemon": "^2.0.2",
+    "request": "^2.88.0"
+  }
+}
